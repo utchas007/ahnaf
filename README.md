@@ -8,7 +8,7 @@ Welcome to my GitHub! I specialize in building **intelligent systems** that scal
 
 Currently building and optimizing miners on cutting-edge AI networks like **Bittensor**, **Gensyn**, and **MetaHash**:
 
-- 🛰️ **AI Factory (SN80)** — Qwen/DeepSeek-based scientific generation miner
+- 🛰️ **AI Factory (SN80)** — Qwen/DeepSeek-based scientific generation systems
 - 🔐 **Merit (SN73)** — Evaluating reputation via hash-based scoring
 - 🧠 **Neural Condense (SN27)** — High-throughput inference using CUDA
 - 🎶 **SoundsRight** — Audio classification & generation with local models
