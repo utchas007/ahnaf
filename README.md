@@ -43,9 +43,9 @@ I specialize in building and programming intelligent robotic systems across land
 - 🧪 Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/makermelissa/makermelissa/master/images/arduino.gif" width="200" alt="Arduino GIF" />
-  <img src="https://www.raspberrypi.com/app/uploads/2021/07/Raspberry-Pi-400.gif" width="250" alt="Raspberry Pi GIF" />
-  <img src="https://cdn.dribbble.com/users/1472201/screenshots/6120898/nvidia_dribbble.gif" width="200" alt="NVIDIA GPU GIF" />
+  <img src="https://github.com/UtkarshVerma128/UtkarshVerma128/blob/master/Assets/arduino.gif?raw=true" width="200" alt="Arduino GIF" />
+  <img src="https://github.com/innng/robohub-profile/blob/main/assets/rpi.gif?raw=true" width="250" alt="Raspberry Pi GIF" />
+  <img src="https://github.com/AhmadElsagheer/AhmadElsagheer/assets/62829364/03d9e2a6-e84f-404b-b7a7-e2bb3cc9fdee" width="220" alt="NVIDIA GPU GIF" />
 </p>
 
 ---
