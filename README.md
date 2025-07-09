@@ -29,18 +29,23 @@ Currently building and optimizing miners on cutting-edge AI networks like **Bitt
 
 ---
 
-## 🤖 Robotics, Drone & Underwater Engineering
+## 🤖 Robotics, Drone & Embedded Systems Engineering
 
-I specialize in building and programming intelligent robotic systems across land, air, and underwater. My work focuses on sensor fusion, autonomy, and reliable real-world deployment.
+I specialize in building and programming intelligent robotic systems across land, air, and underwater. My work focuses on sensor fusion, autonomy, and real-world deployment using embedded platforms like **Arduino**, **Raspberry Pi**, and **NVIDIA GPUs**.
 
-- 🛠️ Designed & deployed **ground robots** with ultrasonic sensors, encoders, and C++/Python logic  
-- ✈️ Built autonomous **UAV drones** using DroneKit, GPS, Raspberry Pi, and telemetry  
-- 🌊 Developed **underwater robotics** with depth sensors, buoyancy control, sealed modules, and Arduino-based logic  
-- 🤖 Integrated real-time **sensor fusion** systems for obstacle detection and navigation  
-- ⚙️ Focused on robust deployment, field testing, power optimization, and ESC/PWM tuning
+- 🛠️ Designed & deployed **ground robots** using ultrasonic sensors, encoders, and C++/Python logic  
+- ✈️ Built autonomous **UAV drones** with DroneKit, GPS, Raspberry Pi, and telemetry  
+- 🌊 Developed **underwater robotics** using pressure sensors, buoyancy control, and Arduino-based logic  
+- ⚙️ Created **Arduino-based automation** projects: obstacle detection, servo control, buzzer systems, IR remotes  
+- 🍓 Used **Raspberry Pi** for image capture, GPIO automation, sensor processing, and cloud API integration  
+- 🔋 Ran LLMs and CUDA pipelines on **NVIDIA RTX 3090** for AI-powered robotics tasks and miner workloads  
+- 🤖 Integrated real-time **sensor fusion systems** for obstacle avoidance, path planning, and decision logic  
+- 🧪 Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o1ZG5ycjZld2R4MzRqa2lnb2drbzFmeWxuZmJ4Nmdpb2R1b2w0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J1XrUQTzVNqdO/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/makermelissa/makermelissa/master/images/arduino.gif" width="200" alt="Arduino GIF" />
+  <img src="https://www.raspberrypi.com/app/uploads/2021/07/Raspberry-Pi-400.gif" width="250" alt="Raspberry Pi GIF" />
+  <img src="https://cdn.dribbble.com/users/1472201/screenshots/6120898/nvidia_dribbble.gif" width="200" alt="NVIDIA GPU GIF" />
 </p>
 
 ---
@@ -61,14 +66,14 @@ I specialize in building and programming intelligent robotic systems across land
 | **Languages**          | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) |
 | **AI/ML**              | PyTorch, Transformers, Hugging Face, Fine-tuning |
 | **LLMs**               | LLaMA, Qwen, DeepSeek, FastChat, OpenAI-compatible APIs |
-| **Robotics/Hardware**  | VEX IQ, Arduino, Raspberry Pi, DroneKit, Ultrasonic sensors, ESC/PWM tuning |
+| **Robotics/Hardware**  | Arduino, Raspberry Pi, VEX IQ, DroneKit, Sensors, ESC/PWM |
 | **Infra & DevOps**     | Linux (Ubuntu), Docker, PM2, SSH, systemd, WireGuard, NVIDIA RTX 3090 |
 | **Automation & APIs**  | Make.com, Webhooks, Telegram Bots, FastAPI, Flask |
 | **Tools**              | Git, VS Code, Jupyter, GitHub Actions |
 
 ---
 
-## 🔧 What I’m Working On
+## 📦 What I’m Working On
 
 - ⚡ Scaling local LLM miners for decentralized AI networks  
 - 🛩️ Building drone-assisted robotics kits with real-time control  
