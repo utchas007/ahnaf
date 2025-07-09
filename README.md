@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahnaf — AI Engineer, Robotics Instructor & Automation Enthusiast
+# 👋 Hi, I'm Ahnaf — AI, Robotics & Automation Engineer
 
 Welcome to my GitHub! I specialize in building **intelligent systems** that scale — from AI miners on decentralized networks to hands-on robotics and drone applications in the classroom. My work sits at the intersection of **AI, automation, and education**.
 
